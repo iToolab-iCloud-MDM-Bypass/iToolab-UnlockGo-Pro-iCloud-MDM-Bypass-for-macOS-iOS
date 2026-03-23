@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://cutt.ly/ztdSIcdQ">
+  <a href="https://cutt.ly/ctOs5Dgn">
     <img src="https://img.shields.io/badge/Open_UnlockGo_Pro_Guide-66CDAA?style=for-the-badge&logo=itoolab&logoColor=white"
          height="84"
          style="border-radius:42px; box-shadow:0 20px 60px rgba(255,107,0,0.6);">
